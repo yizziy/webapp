@@ -1,0 +1,626 @@
+[
+    {
+        "question": "Was ist eine wissenschaftliche Theorie?",
+        "answers": [
+            "Eine überprüfbare und falsifizierbare Erklärung",
+            "Eine reine Meinung",
+            "Ein philosophisches Konzept",
+            "Eine unbewiesene Annahme"
+        ],
+        "correct": 0,
+        "topic": "Grundlagen der Wissenschaft",
+        "score": 5
+    },
+    {
+        "question": "Was bedeutet Falsifizierbarkeit?",
+        "answers": [
+            "Die Möglichkeit, eine Theorie zu widerlegen",
+            "Die Bestätigung einer Theorie",
+            "Ein Beweis für Wahrheit",
+            "Ein logischer Fehlschluss"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 4
+    },
+    {
+        "question": "Was ist der Unterschied zwischen Induktion und Deduktion?",
+        "answers": [
+            "Induktion schließt vom Einzelnen aufs Allgemeine, Deduktion vom Allgemeinen aufs Einzelne",
+            "Beide schließen vom Einzelnen aufs Allgemeine",
+            "Beide schließen vom Allgemeinen aufs Einzelne",
+            "Induktion ist eine Form des Reduktionismus"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 5
+    },
+    {
+        "question": "Wer prägte den Satz: 'Ich denke, also bin ich'?",
+        "answers": [
+            "René Descartes",
+            "David Hume",
+            "Francis Bacon",
+            "Immanuel Kant"
+        ],
+        "correct": 0,
+        "topic": "Rationalismus",
+        "score": 3
+    },
+    {
+        "question": "Was ist die Grundlage des Empirismus?",
+        "answers": [
+            "Wissen basiert auf Sinneserfahrung",
+            "Wissen ist angeboren",
+            "Wissen ist rein logischer Natur",
+            "Wissen entsteht aus Metaphysik"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Was bedeutet Ockhams Rasiermesser?",
+        "answers": [
+            "Die einfachste Erklärung ist meist die beste",
+            "Komplexe Theorien sind immer richtig",
+            "Alle Hypothesen sind gleichwertig",
+            "Die Realität ist eine Illusion"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 4
+    },
+    {
+        "question": "Was ist ein Axiom?",
+        "answers": [
+            "Ein Grundsatz, der nicht bewiesen werden muss",
+            "Eine unbewiesene Meinung",
+            "Eine experimentelle Hypothese",
+            "Eine logische Schlussfolgerung"
+        ],
+        "correct": 0,
+        "topic": "Logik und Wissenschaft",
+        "score": 3
+    },
+    {
+        "question": "Was versteht man unter einer Hypothese?",
+        "answers": [
+            "Eine überprüfbare Annahme",
+            "Eine bewiesene Theorie",
+            "Eine Meinung ohne Beleg",
+            "Eine mathematische Formel"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was bedeutet der Begriff 'Deduktion'?",
+        "answers": [
+            "Schluss vom Allgemeinen auf den Einzelfall",
+            "Schluss vom Einzelnen auf das Allgemeine",
+            "Eine Reduktion von Hypothesen",
+            "Eine falsifizierte Theorie"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 4
+    },
+    {
+        "question": "Was ist das Münchhausen-Trilemma?",
+        "answers": [
+            "Die drei unbefriedigenden Möglichkeiten zur Begründung von Wissen",
+            "Ein Paradoxon der Relativitätstheorie",
+            "Ein Denkfehler der Deduktion",
+            "Eine Hypothese über die Realität"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 5
+    },
+    {
+        "question": "Was bedeutet 'Post hoc ergo propter hoc'?",
+        "answers": [
+            "Ein Denkfehler, der eine falsche Kausalität annimmt",
+            "Eine mathematische Schlussregel",
+            "Ein Experiment zur Bestätigung von Hypothesen",
+            "Eine Form der Falsifizierbarkeit"
+        ],
+        "correct": 0,
+        "topic": "Logik und Fehlschlüsse",
+        "score": 4
+    },
+    {
+        "question": "Was ist eine 'selektive Wahrnehmung'?",
+        "answers": [
+            "Das bewusste oder unbewusste Fokussieren auf bestimmte Reize",
+            "Die Erfassung aller Umweltreize",
+            "Eine Form der induktiven Schlussfolgerung",
+            "Eine präzise Wahrnehmung ohne Fehler"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Beobachtungen",
+        "score": 4
+    },
+    {
+        "question": "Was ist der Unterschied zwischen Analytischen und Synthetischen Sätzen?",
+        "answers": [
+            "Analytische Sätze sind immer wahr aufgrund ihrer Begriffe, synthetische Sätze benötigen empirische Überprüfung",
+            "Beide sind immer empirisch wahr",
+            "Analytische Sätze sind immer falsch",
+            "Es gibt keinen Unterschied"
+        ],
+        "correct": 0,
+        "topic": "Logik und Wissenschaft",
+        "score": 5
+    },
+    {
+        "question": "Welche Aussage beschreibt die 'Black Swan Theory' von Nassim Taleb?",
+        "answers": [
+            "Seltene, unvorhersehbare Ereignisse mit enormen Auswirkungen",
+            "Eine Vorhersage zur Relativität der Zeit",
+            "Eine Hypothese zur Falsifizierbarkeit",
+            "Ein Paradoxon der klassischen Physik"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Was ist das Ziel der Wissenschaft?",
+        "answers": [
+            "Objektive Erkenntnisgewinnung durch überprüfbare Methoden",
+            "Die Verbreitung von Meinungen",
+            "Die Dogmatisierung von Theorien",
+            "Die Erzeugung von Unsicherheit"
+        ],
+        "correct": 0,
+        "topic": "Grundlagen der Wissenschaft",
+        "score": 5
+    },
+    {
+        "question": "Was versteht man unter 'Empirischer Überprüfbarkeit'?",
+        "answers": [
+            "Die Möglichkeit, eine Theorie durch Experimente und Beobachtungen zu testen",
+            "Das Festlegen von Dogmen",
+            "Die unkritische Annahme von Hypothesen",
+            "Die Verwendung metaphysischer Annahmen"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 5
+    },
+    {
+        "question": "Was ist das Ziel der wissenschaftlichen Methode?",
+        "answers": [
+            "Systematische Erkenntnisgewinnung",
+            "Meinungen zu verbreiten",
+            "Fakten durch Dogmen zu ersetzen",
+            "Subjektive Wahrheiten zu validieren"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was ist der Unterschied zwischen einer Hypothese und einer Theorie?",
+        "answers": [
+            "Eine Hypothese ist eine Annahme, eine Theorie ist ein überprüftes Modell",
+            "Eine Theorie ist eine Vermutung, eine Hypothese ist bewiesen",
+            "Hypothesen sind immer falsch, Theorien immer wahr",
+            "Theorien sind nicht testbar, Hypothesen schon"
+        ],
+        "correct": 0,
+        "topic": "Grundlagen der Wissenschaft",
+        "score": 5
+    },
+    {
+        "question": "Was ist ein Paradigmenwechsel laut Thomas Kuhn?",
+        "answers": [
+            "Eine grundlegende Veränderung wissenschaftlicher Denkmuster",
+            "Ein Wechsel zwischen induktiven und deduktiven Methoden",
+            "Der Übergang von Theorien zur Praxis",
+            "Eine falsifizierte Hypothese"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 5
+    },
+    {
+        "question": "Was bedeutet 'Korrespondenztheorie der Wahrheit'?",
+        "answers": [
+            "Wahrheit ist das, was mit der Realität übereinstimmt",
+            "Wahrheit ist, was gesellschaftlich akzeptiert wird",
+            "Wahrheit ist subjektiv",
+            "Wahrheit kann nicht existieren"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Welche Philosophie vertritt die Ansicht, dass Wissen durch Erfahrung entsteht?",
+        "answers": [
+            "Empirismus",
+            "Rationalismus",
+            "Konstruktivismus",
+            "Skeptizismus"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 5
+    },
+    {
+        "question": "Welche Aussage trifft auf den Rationalismus zu?",
+        "answers": [
+            "Wissen wird durch Vernunft und Logik erworben",
+            "Alle Erkenntnis stammt aus Sinneserfahrung",
+            "Wahrheit ist relativ",
+            "Jede Theorie ist unüberprüfbar"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 5
+    },
+    {
+        "question": "Was beschreibt die Kohärenztheorie der Wahrheit?",
+        "answers": [
+            "Eine Aussage ist wahr, wenn sie in ein bestehendes System von Wahrheiten passt",
+            "Wahrheit ist subjektiv",
+            "Wahrheit ist nicht überprüfbar",
+            "Wahrheit ist eine absolute Größe"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 4
+    },
+    {
+        "question": "Was versteht man unter dem Begriff 'Operationalisierung'?",
+        "answers": [
+            "Messbarmachung theoretischer Konzepte",
+            "Einführung von Theorien in die Praxis",
+            "Das Bestimmen eines Paradigmenwechsels",
+            "Die Falsifikation einer Hypothese"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was ist ein wissenschaftliches Gesetz?",
+        "answers": [
+            "Eine gut überprüfte und universelle Regelmäßigkeit",
+            "Eine Theorie ohne empirische Überprüfung",
+            "Eine subjektive Erkenntnis",
+            "Eine unüberprüfbare Aussage"
+        ],
+        "correct": 0,
+        "topic": "Grundlagen der Wissenschaft",
+        "score": 4
+    },
+    {
+        "question": "Welcher Wissenschaftler ist ein bedeutender Vertreter des Empirismus?",
+        "answers": [
+            "John Locke",
+            "René Descartes",
+            "Immanuel Kant",
+            "Gottfried Wilhelm Leibniz"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Was ist ein Deduktionsproblem?",
+        "answers": [
+            "Wenn die Ausgangsprämissen falsch sind, ist auch die Schlussfolgerung falsch",
+            "Wenn man keine Theorien falsifizieren kann",
+            "Wenn Beobachtungen keine Theorien bestätigen",
+            "Wenn keine Induktion möglich ist"
+        ],
+        "correct": 0,
+        "topic": "Logik und Wissenschaft",
+        "score": 4
+    },
+    {
+        "question": "Welche der folgenden Aussagen beschreibt das Induktionsproblem?",
+        "answers": [
+            "Es gibt keine Garantie, dass eine allgemeine Regel aus Beobachtungen korrekt ist",
+            "Induktion ist immer wahr",
+            "Induktion ist eine Form der Deduktion",
+            "Induktion führt immer zu sicheren Erkenntnissen"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was ist eine Theorie nach Karl Popper?",
+        "answers": [
+            "Eine falsifizierbare Hypothese",
+            "Eine bewiesene Tatsache",
+            "Eine dogmatische Annahme",
+            "Eine metaphysische Idee"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 5
+    },
+    {
+        "question": "Was bedeutet 'Peer-Review'?",
+        "answers": [
+            "Begutachtung wissenschaftlicher Arbeiten durch Fachkollegen",
+            "Eine Methode zur Falsifikation von Theorien",
+            "Ein alternatives Modell zur Wissenschaftlichkeit",
+            "Ein Prinzip zur Erzeugung neuer Hypothesen"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Praxis",
+        "score": 4
+    },
+    {
+        "question": "Was beschreibt das Konzept des 'Skeptizismus'?",
+        "answers": [
+            "Zweifel an der absoluten Erkenntnisfähigkeit",
+            "Die Annahme, dass alle Theorien wahr sind",
+            "Die Ablehnung jeglicher Wissenschaft",
+            "Die Idee, dass nur mathematische Beweise zählen"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Welche der folgenden Aussagen beschreibt den 'Bestätigungsfehler'?",
+        "answers": [
+            "Menschen suchen gezielt nach Informationen, die ihre Überzeugungen stützen",
+            "Ein Experiment, das eine Hypothese widerlegt",
+            "Eine wissenschaftliche Falsifikation",
+            "Eine bewiesene Hypothese"
+        ],
+        "correct": 0,
+        "topic": "Logik und Wissenschaft",
+        "score": 4
+    },
+    {
+        "question": "Was bedeutet 'Reproduzierbarkeit' in der Wissenschaft?",
+        "answers": [
+            "Ergebnisse eines Experiments müssen durch andere wiederholt werden können",
+            "Jede Theorie muss falsifizierbar sein",
+            "Wahrheit ist relativ",
+            "Wissenschaft ist nicht testbar"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was bedeutet der Begriff 'Paradigma' in der Wissenschaftstheorie?",
+        "answers": [
+            "Ein grundlegendes Denkmuster innerhalb einer Wissenschaft",
+            "Eine experimentelle Hypothese",
+            "Ein mathematisches Modell",
+            "Ein unbewiesenes Axiom"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 5
+    },
+    {
+        "question": "Was ist eine Meta-Analyse?",
+        "answers": [
+            "Eine statistische Zusammenfassung mehrerer Studien",
+            "Eine neue wissenschaftliche Theorie",
+            "Eine Methode zur Theoriefindung",
+            "Ein logischer Fehlschluss"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 4
+    },
+    {
+        "question": "Welches Prinzip besagt, dass keine wissenschaftliche Erkenntnis endgültig ist?",
+        "answers": [
+            "Falsifizierbarkeit",
+            "Verifikation",
+            "Dogmatismus",
+            "Reduktionismus"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 5
+    },
+    {
+        "question": "Was ist der Unterschied zwischen qualitativer und quantitativer Forschung?",
+        "answers": [
+            "Qualitativ analysiert nicht-numerische Daten, quantitativ arbeitet mit Zahlen",
+            "Quantitativ ist subjektiv, qualitativ ist objektiv",
+            "Qualitative Forschung ist exakter",
+            "Quantitative Forschung kann nicht falsifiziert werden"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 4
+    },
+    {
+        "question": "Was beschreibt das 'Double-Blind-Verfahren'?",
+        "answers": [
+            "Weder Forscher noch Teilnehmer wissen, wer zur Test- oder Kontrollgruppe gehört",
+            "Ein Experiment, das doppelt überprüft wurde",
+            "Ein Experiment mit zwei Hypothesen",
+            "Eine falsifizierte Theorie"
+        ],
+        "correct": 0,
+        "topic": "Experimentelle Methoden",
+        "score": 5
+    },
+    {
+        "question": "Welches Problem beschreibt das Replikationskrisen-Phänomen?",
+        "answers": [
+            "Viele Studienergebnisse können nicht reproduziert werden",
+            "Alle Theorien sind subjektiv",
+            "Die Wissenschaft ist immer absolut wahr",
+            "Die Wissenschaft entwickelt sich zu langsam"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Praxis",
+        "score": 4
+    },
+    {
+        "question": "Was versteht man unter einem 'Publikationsbias'?",
+        "answers": [
+            "Bevorzugung positiver Studienergebnisse in Fachzeitschriften",
+            "Ein Fehler in der Datenauswertung",
+            "Eine Verzerrung durch fehlerhafte Messinstrumente",
+            "Eine falsche Anwendung des Ockhamschen Rasiermessers"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Ethik",
+        "score": 4
+    },
+    {
+        "question": "Was ist eine 'Nullhypothese'?",
+        "answers": [
+            "Eine Hypothese, die keinen Unterschied zwischen Gruppen annimmt",
+            "Eine Annahme ohne empirische Grundlage",
+            "Ein axiomatisches Gesetz",
+            "Eine nicht falsifizierbare Theorie"
+        ],
+        "correct": 0,
+        "topic": "Statistische Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was ist ein Experiment?",
+        "answers": [
+            "Eine systematische Untersuchung unter kontrollierten Bedingungen",
+            "Eine zufällige Beobachtung",
+            "Eine nicht messbare Theorie",
+            "Ein philosophisches Gedankenspiel"
+        ],
+        "correct": 0,
+        "topic": "Experimentelle Methoden",
+        "score": 5
+    },
+    {
+        "question": "Was ist 'Reliabilität' in der Wissenschaft?",
+        "answers": [
+            "Die Zuverlässigkeit einer Messung",
+            "Die ethische Korrektheit eines Experiments",
+            "Die Bestätigung einer Hypothese",
+            "Die Geschwindigkeit wissenschaftlicher Fortschritte"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftliche Methoden",
+        "score": 4
+    },
+    {
+        "question": "Was bedeutet 'Interrater-Reliabilität'?",
+        "answers": [
+            "Die Übereinstimmung zwischen verschiedenen Beurteilern",
+            "Die Wiederholbarkeit eines Experiments",
+            "Die Kausalität zwischen Variablen",
+            "Die allgemeine Gültigkeit einer Theorie"
+        ],
+        "correct": 0,
+        "topic": "Statistische Methoden",
+        "score": 3
+    },
+    {
+        "question": "Welcher Begriff beschreibt den Zusammenhang zwischen Ursache und Wirkung?",
+        "answers": [
+            "Kausalität",
+            "Korrelation",
+            "Induktion",
+            "Deduktion"
+        ],
+        "correct": 0,
+        "topic": "Logik und Wissenschaft",
+        "score": 5
+    },
+    {
+        "question": "Was ist eine Scheinkorrelation?",
+        "answers": [
+            "Ein scheinbarer Zusammenhang zwischen zwei Variablen ohne echte Kausalität",
+            "Eine bestätigte Korrelation",
+            "Eine nicht messbare Korrelation",
+            "Eine experimentelle Methode"
+        ],
+        "correct": 0,
+        "topic": "Statistische Methoden",
+        "score": 4
+    },
+    {
+        "question": "Was ist eine 'Doppelblindstudie'?",
+        "answers": [
+            "Eine Studie, bei der weder Teilnehmer noch Forscher wissen, wer in welcher Gruppe ist",
+            "Eine Theorie, die durch zwei Experimente geprüft wurde",
+            "Eine Studie mit zwei Kontrollgruppen",
+            "Ein Experiment mit doppeltem Fehler"
+        ],
+        "correct": 0,
+        "topic": "Experimentelle Methoden",
+        "score": 5
+    },
+    {
+        "question": "Welcher wissenschaftliche Ansatz geht davon aus, dass Wissen konstruiert wird?",
+        "answers": [
+            "Konstruktivismus",
+            "Empirismus",
+            "Rationalismus",
+            "Skeptizismus"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Welche Aussage trifft auf den Relativismus zu?",
+        "answers": [
+            "Wahrheit ist abhängig vom Kontext",
+            "Wahrheit ist absolut",
+            "Es gibt keine Wissenschaft",
+            "Alle Theorien sind objektiv richtig"
+        ],
+        "correct": 0,
+        "topic": "Erkenntnistheorie",
+        "score": 4
+    },
+    {
+        "question": "Welche der folgenden Aussagen beschreibt den Naturalistischen Fehlschluss?",
+        "answers": [
+            "Ein Fehlschluss, der von einem Sein auf ein Sollen schließt",
+            "Ein Fehlschluss, der Wahrheit mit Häufigkeit gleichsetzt",
+            "Eine falsche Deduktion",
+            "Eine falsch angewendete Falsifikation"
+        ],
+        "correct": 0,
+        "topic": "Logik und Wissenschaft",
+        "score": 4
+    },
+    {
+        "question": "Was ist der 'Bestätigungsfehler'?",
+        "answers": [
+            "Die Tendenz, nur Informationen zu suchen, die eigene Überzeugungen bestätigen",
+            "Ein Fehler bei der experimentellen Messung",
+            "Ein logischer Widerspruch in der Theorie",
+            "Die unbewusste Manipulation von Ergebnissen"
+        ],
+        "correct": 0,
+        "topic": "Kognitive Verzerrungen",
+        "score": 5
+    },
+    {
+        "question": "Was ist 'Pseudowissenschaft'?",
+        "answers": [
+            "Eine nicht falsifizierbare oder empirisch unüberprüfbare Theorie",
+            "Eine gut bestätigte wissenschaftliche Hypothese",
+            "Eine korrekte mathematische Formel",
+            "Eine exakte wissenschaftliche Methodik"
+        ],
+        "correct": 0,
+        "topic": "Wissenschaftstheorie",
+        "score": 5
+    }
+]
