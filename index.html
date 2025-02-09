@@ -1425,8 +1425,9 @@
         function loadQuestion() {
             const quizContainer = document.getElementById("quiz-container");
             quizContainer.innerHTML = "";
+            shuffleArray(quizData)
 
-            const questionData = shuffleArray(quizData[currentQuestionIndex]);
+            const questionData = quizData[currentQuestionIndex];
             if (!questionData) {
                 showStats();
                 return;
