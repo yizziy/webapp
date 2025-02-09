@@ -1412,6 +1412,7 @@
             totalPerTopic = {};
             document.getElementById("quiz-container").classList.remove("hidden");
             document.getElementById("stats-container").classList.add("hidden");
+            shuffleArray(quizData)
             loadQuestion();
         }
 
@@ -1425,7 +1426,7 @@
         function loadQuestion() {
             const quizContainer = document.getElementById("quiz-container");
             quizContainer.innerHTML = "";
-            shuffleArray(quizData)
+
 
             const questionData = quizData[currentQuestionIndex];
             if (!questionData) {
